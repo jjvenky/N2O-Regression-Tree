@@ -1,9 +1,9 @@
-N2O-Regression-Tree
-===================
+N<sub>2</sub>O Regression Tree
+==============================
 
-Data and code associated with Venkiteswaran, Rosamond, and Schiff manuscript titled *Non-linear response of riverine N<sub>2</sub>O fluxes to oxygen and temperature*.
+Data and code associated with Venkiteswaran, Rosamond, and Schiff. 2014. *Non-linear response of riverine N<sub>2</sub>O fluxes to oxygen and temperature*. Environmental Science & Technology. doi: [10.1021/es50006j9](http://dx.doi.org/10.1021/es50006j9).
 
-This manuscript was accepted for publication in *Environmental Science & Technology* on 10 January 2014 as *es-2014-00069j*. The raw data and R-script used to perform the analyses and figures are here. The raw data has been offered to the journal to be included as Supporting Information.
+The raw data and R-script used to perform the analyses and figures are here. The raw data has been offered to the journal to be included as Supporting Information.
 
 The raw data is a csv file. The associated README file has the units for the raw data.
 
